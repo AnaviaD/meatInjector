@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "meatInjector", "meatInjector\meatInjector.pyproj", "{E6EF87AD-1EDA-43EC-B5D9-FFF4010647ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6EF87AD-1EDA-43EC-B5D9-FFF4010647ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EF87AD-1EDA-43EC-B5D9-FFF4010647ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D12BD7C-6C0D-4700-9E34-6C8BF6FADA6B}
+	EndGlobalSection
+EndGlobal
